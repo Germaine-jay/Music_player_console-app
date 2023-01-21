@@ -1,8 +1,0 @@
-C:\Users\user\source\repos\PlayList\PlayList\bin\Debug\PlayList.exe.config
-C:\Users\user\source\repos\PlayList\PlayList\bin\Debug\PlayList.exe
-C:\Users\user\source\repos\PlayList\PlayList\bin\Debug\PlayList.pdb
-C:\Users\user\source\repos\PlayList\PlayList\obj\Debug\PlayList.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\PlayList\PlayList\obj\Debug\PlayList.csproj.SuggestedBindingRedirects.cache
-C:\Users\user\source\repos\PlayList\PlayList\obj\Debug\PlayList.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\PlayList\PlayList\obj\Debug\PlayList.exe
-C:\Users\user\source\repos\PlayList\PlayList\obj\Debug\PlayList.pdb
